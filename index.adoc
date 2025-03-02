@@ -1,0 +1,3 @@
+= MapStruct Playground
+
+Noting usefull or serious. Only to play around with MapStruct.
